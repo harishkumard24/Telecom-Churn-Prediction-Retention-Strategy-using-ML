@@ -174,7 +174,7 @@ jupyter notebook
 
 ## 👨‍💻 Author
 
-Your Name  
+HARISH KUMAR D  
 Machine Learning Engineer | Data Scientist
 
 ---
